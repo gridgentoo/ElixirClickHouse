@@ -1,8 +1,8 @@
-# Clickhousex
+## Clickhousex  
 
-ClickHouse database driver to connect with Elixir application by HTTP interface.
+ClickHouse database driver to connect with Elixir application by HTTP interface.  
 
-## Installation
+## Installation  
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
 by adding `clickhousex` to your list of dependencies in `mix.exs`:
